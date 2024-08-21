@@ -1,1 +1,1 @@
-# Sporithy
+# Clonify
